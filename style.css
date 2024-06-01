@@ -229,6 +229,10 @@ ul.collinks {
     margin: 0 auto;
 }
 
+figure img {
+    width: 100%;
+}
+
 figcaption {
     font-family: 'W95font', sans-serif;
     font-size: 20px;
