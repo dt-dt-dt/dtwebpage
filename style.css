@@ -157,12 +157,12 @@ ul.collinks {
 }
 
 .nav li:hover {
-    background-color: rgb(80, 48, 220);
+    background-color: #5030dc;
     color: #fff;
 }
 
 .nav li.selected {
-    background-color: rgb(236, 219, 36);
+    background-color: #ecdb24;
     color: #232323;
 }
 

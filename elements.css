@@ -27,7 +27,7 @@
     font-family: 'W95font', sans-serif;
 }
 .site-box > a > span {
-    color: var(--darkbrown);
+    color: #fff;
 }
 
 /* Style for your 'Follow on Nekoweb' button (<iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>) */
