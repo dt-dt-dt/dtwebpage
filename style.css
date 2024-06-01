@@ -53,6 +53,11 @@ h3 {
     width: 600px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
 .box {
     margin-top: 8em;
     display: grid;
