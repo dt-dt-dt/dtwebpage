@@ -20,6 +20,13 @@
     font-weight: normal;
 }
 
+.site-box {
+    background-image: url("https://dtwebpage.nekoweb.org/sitebox.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'W95font', sans-serif;
+}
+
 .site-box > a > p {
     /* color: var(--darkbrown); */
     color: #907bef;
