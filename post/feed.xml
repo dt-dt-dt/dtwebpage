@@ -4,11 +4,63 @@
 <channel>
   <title>dtweb.page POSTs</title>
   <link>https://dtweb.page/post</link>
-  <description>dtweb.page all blog posts</description>
+  <description>dtweb.page all blog posts. Featuring full articles in the feed!</description>
   <lastBuildDate>
-    Fri, 31 May 2024 19:00:00 -0700
+    Sun, 02 Jun 2024 13:48:00 -0700
   </lastBuildDate>
   <ttl>20000</ttl>
+  <item>
+    <title>In Defence of New Media Pt. 1: Algorithms</title>
+    <link>https://dtweb.page/post/20240602-rss</link>
+    <description>
+    &lt;p&gt;I like RSS. (Really Simple Syndication) It's a way for you to subscribe to a feed through an open standard, without a proprietary platform. (e.g.: Instagram, TikTok, etc.)&lt;/p&gt;
+            &lt;p&gt;(This blog has an RSS feed. You should follow it...)&lt;/p&gt;
+            &lt;p&gt;While those parts of grassroots &quot;old web&quot; site movements like Neocities, Nekoweb, etc. are big on a 'return' to the old way of the internet, the rest of the netizens have largely moved on. Algorithmic feeds have dominated the way we consume media.&lt;/p&gt;
+            &lt;p&gt;For the two years I was off &quot;mainstream&quot; social media, I have some reflections on this.&lt;/p&gt;
+        &lt;h3&gt;An uphill battle&lt;/h3&gt;
+            &lt;p&gt;Algorithms already won. You'd be hard-pressed to find someone in real life that doesn't have some kind of mainstream social media.&lt;/p&gt;
+            &lt;p&gt;It is barely arguable as to why: RSS feeds have a problem that federated &quot;alternative&quot; social medias carry. &lt;b&gt;There's too much friction to both the creator and the user.&lt;/b&gt;&lt;/p&gt;
+            &lt;p&gt;RSS feeds and algorithmic feeds are only similar in their goal: to provide content to a user. But they approach it in radically different ways.&lt;/p&gt;
+            &lt;p&gt;Something like Instagram or TikTok are bespoke platforms that work on &quot;followers.&quot; Systems are already built-in to deliver content. The author only needs to provide the &lt;i&gt;content itself&lt;/i&gt;, and users need only tap a button&#45; mutually assuring what matters to them: content.&lt;/p&gt;
+            &lt;p&gt;RSS is an open standard, which includes points of friction for both parties.&lt;/p&gt;
+            &lt;p&gt;The user is already met with a paralyzing amount of choice. There is no such thing as &quot;the&quot; RSS reader. There are an endless amount of options, which each their own features.&lt;/p&gt;
+            &lt;p&gt;The author has much more work to do. Making an RSS feed requires you to be familiar with XML, or at the very least understand how markup languages work.&lt;/p&gt;
+            &lt;p&gt;Look, I'm biased. It's not &lt;em&gt;too&lt;/em&gt; difficult to understand how tags function. But it requires an author, in addition to creating the content, but to manage the interface of their own &quot;platform.&quot;&lt;/p&gt;
+            &lt;p&gt;As new media evolves, interfacing with computers is becoming (and has already become) simple. People will go to the past of least resistance, and with it, build a strong network.&lt;/p&gt;
+        &lt;h3&gt;Who cares about open source?&lt;/h3&gt;
+            &lt;p&gt;It's very hard to sell someone on privacy. It's even harder to sell them on open source.&lt;/p&gt;
+            &lt;p&gt;The state of online sovereignty and privacy is... not good. Google's data collecting machine has all but usurped any alternative to web services, while social media continues to engineer perfect engagement out of us. (Silver lining: people &lt;i&gt;are&lt;/i&gt; actually kind of caring, anecdotally!)&lt;/p&gt;
+            &lt;p&gt;The network effect is strong. Instagram is easy to use, and &quot;everyone's&quot; on it. Why wouldn't you?&lt;/p&gt;
+            &lt;p&gt;It's not that the alternative is worse. It's that there's no &quot;real&quot; reason to use them. It's a &quot;worse&quot; experience for everyone involve, and no sane person would go back. (...)&lt;/p&gt;
+            &lt;p&gt;There's a bit of &lt;i&gt;reflexive impotence&lt;/i&gt; &lt;sup&gt;1&lt;/sup&gt; at play here. Nothing can really be done, because people don't believe that there is a thing &lt;em&gt;to&lt;/em&gt; be done. &lt;strong&gt;It's a UX problem.&lt;/strong&gt;&lt;/p&gt;
+            &lt;p&gt;But should things be done here?&lt;/p&gt;
+        &lt;h3&gt;Indifference, not to be confused with apathy&lt;/h3&gt;
+            &lt;p&gt;When I was off social media, I had an &quot;extremist&quot; practice of abandoning all new media. I denounced all algorithmically fed content. &quot;You're under their control,&quot; I bemoaned.&lt;/p&gt;
+            &lt;p&gt;While it is always good to cut off toxic, actively bad parts of your life, (I still refuse to get back on X, formerly Twitter) it is even more important to be &lt;i&gt;aware&lt;/i&gt; of what you're experiencing.&lt;/p&gt;
+            &lt;p&gt;One of my, and many other's criticisms of new social media, is that the user is subjugated and fed mindless &quot;content.&quot; Engagement is the name of the game here, and posts are continually engineered to take up your time, and profit off you.&lt;/p&gt;
+            &lt;p&gt;With this engagement-prioritized state of content, creators will resort to tension, anger, outrage&#45; even at the cost of factual information.&lt;/p&gt;
+            &lt;p&gt;The longer you've been on the internet, (or alive for that matter.) the easier is generally is to point out fakes and frauds. Media literacy is so, &lt;em&gt;so&lt;/em&gt; important &lt;strong&gt;especially&lt;/strong&gt; with the advent of &quot;A.I.&quot; (To be elaborated in a different POST, later.)&lt;/p&gt;
+            &lt;p&gt;The death grip that new social media has on the world is hard to loosen. Despite all of X/Twitter's wrongdoings, Mastodon is still not &quot;a thing.&quot; Nobody* really cares. It hasn't become a new cultural phenonmenon.&lt;/p&gt;
+            &lt;p&gt;It is easy to disregard the content on new social media. &quot;It's all brainrot garbage,&quot; etc. But with the sheer amount of people on these platforms, it has real, tangible effects on the world. The speed of information prioritzed above all gets people moving.&lt;/p&gt;
+            &lt;p&gt;I will not be getting people to care about urbanism, transit, and better cities on solely my website, because of some &quot;moral victory&quot; that independent websites and RSS is better. That's not where people are. I am yelling to the void.&lt;/p&gt;
+            &lt;p&gt;RSS can't win against how &quot;slick&quot; and modern social media is. It may be defeatism, but the world is how it is. Besides...&lt;/p&gt;
+        &lt;h3&gt;Two things are true at once&lt;/h3&gt;
+            &lt;p&gt;Did you know there are still more ways other than social media to enjoy content? It's true!&lt;/p&gt;
+            &lt;p&gt;There's a certain pessimism among netizens, where there are really only five apps people flip through. But the internet is big, and it still exists.&lt;/p&gt;
+            &lt;p&gt;There is nothing literally blocking you from venturing outside the mainstream &quot;internet.&quot; (Not including government geo-restrictions, that require circumvention) RSS feeds still exist. Movements like &lt;a href=&quot;https://neocities.org&quot;&gt;Neocities&lt;/a&gt; and &lt;a href=&quot;https://nekoweb.org&quot;&gt;Nekoweb (where this site is hosted!)&lt;/a&gt; encourage more creative expression than social media.&lt;/p&gt;
+            &lt;p&gt;Big publications often have RSS feeds. I don't get news from Instagram, I get them from my local news site's RSS feed. For publications (like The Verge...) that don't have feeds, you can still get one. Use &lt;a href=&quot;https://morss.it/&quot;&gt;morss.it&lt;/a&gt;. It's good.&lt;/p&gt;
+            &lt;p&gt;I like how RSS provides me a non-algorithmically sorted content feed. But I also like getting things I might be interested in, cause I don't know that I'm interested in it yet.&lt;/p&gt;
+            &lt;p&gt;To be a citizen of the world, is to engage with it how it is. Algorithms won. To interface with the greater public, you have to meet them where they are.&lt;/p&gt;
+            &lt;p&gt;Should you choose not to, that's O.K. You just have to accept that you cannot reach the masses, and that might be acceptable to you.&lt;/p&gt;
+            &lt;p&gt;It's okay. The internet's not dead yet. Just relax. Care, but relax.&lt;/p&gt;
+        &lt;h3&gt;References&lt;/h3&gt;
+        &lt;p&gt;1: Fisher, Mark. &lt;i&gt;Capitalist Realism: Is There No alternative?&lt;/i&gt; (2009) p. 21&lt;/p&gt;
+    </description>
+    <pubDate>
+        Sun, 02 Jun 2024 13:48:00 -0700
+    </pubDate>
+  </item>
+
   <item>
     <title>Lamian Audio is dead.</title>
     <link>https://dtweb.page/post/20240531-lamian</link>
