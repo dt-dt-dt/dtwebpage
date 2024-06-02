@@ -34,8 +34,8 @@ nano .gitconfig
         url = second.git
         fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
-    remote = origin
-    merge = refs/heads/master
+        remote = origin
+        merge = refs/heads/master
 ```
 
 Running `git push` will now push to both.
