@@ -37,7 +37,14 @@ h2, p {
     font-family: 'W95font', sans-serif;
     color: #fff;
     padding: 5px;
-    font-size: 20px;
+    font-size: 22px;
+}
+
+p {
+    font-family: 'W95font', sans-serif;
+    color: #fff;
+    padding: 5px;
+    font-size: 18px;
 }
 
 h3 {
@@ -45,7 +52,7 @@ h3 {
     color: #fff;
     padding: 5px;
     margin: 10px 0px -5px 0px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .header, .section, .footer{
@@ -253,4 +260,14 @@ ul {
 
 .column {
     flex: 50%;
+}
+
+.date {
+    opacity: 50%;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.header-link {
+    color: #fff;
 }
