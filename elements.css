@@ -5,36 +5,31 @@
 */
 
 /* Must start with ".site-box". Change how your website will appear on main nekoweb site: https://lune.dimden.dev/405a44b7e5.png */
-.site-box {
-    text-align: center;
-    background-image: url(https://dtwebpage.nekoweb.org/sitebox.png); /* Only nekoweb URLs allowed, use full url to your site like https://example.nekoweb.org/images/coolbg.png */
-    background-repeat: no-repeat;
-    color: #907bef;
-    font-size: 12px;
-}
-
-@font-face {
-    font-family: 'W95font';
-    src: url('https://dtwebpage.nekoweb.org/w95font/webfont/w95font.woff2') format('woff2'),
-         url('https://dtwebpage.nekoweb.org/w95font/webfont/w95font.woff') format('woff');
-    font-weight: normal;
-}
 
 .site-box {
     background-image: url("https://dtwebpage.nekoweb.org/sitebox.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    font-family: 'W95font', sans-serif;
 }
 
 .site-box > a > p {
-    /* color: var(--darkbrown); */
     color: #907bef;
-    font-weight: bold;
-    font-family: 'W95font', sans-serif;
+    font-size: 12px;
+    border: #fff solid 0.25px;
+    width: max-content;
+    padding: 5px;
+    position: relative;
+    left: 16px;
+    bottom: 7px;
 }
+
 .site-box > a > span {
     color: #fff;
+    opacity: 0;
+}
+
+.sitefeature {
+    opacity: 0;
 }
 
 /* Style for your 'Follow on Nekoweb' button (<iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>) */
