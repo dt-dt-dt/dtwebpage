@@ -30,7 +30,7 @@
 
 .site-box .sitefeature {
     visibility: hidden;
-    display: none;
+    /* display: none; */
 }
 
 /* Style for your 'Follow on Nekoweb' button (<iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>) */
