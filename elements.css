@@ -18,14 +18,11 @@
     border: #fff solid 0.25px;
     width: max-content;
     padding: 5px;
-    position: relative;
-    left: 16px;
-    bottom: 7px;
+    text-align: center;
 }
 
 .site-box > a > span {
     color: #fff;
-    opacity: 0;
 }
 
 .site-box .sitefeature {
