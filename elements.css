@@ -8,8 +8,8 @@
 
 .site-box {
     background-image: url("https://dtwebpage.nekoweb.org/sitebox.png");
+    background-size: 275px 190px;
     background-repeat: no-repeat;
-    background-size: 100%;
 }
 
 .site-box > a > p {
@@ -28,8 +28,9 @@
     opacity: 0;
 }
 
-.sitebox .sitefeature::after {
-    opacity: 0%;
+.site-box .sitefeature {
+    visibility: hidden;
+    display: none;
 }
 
 /* Style for your 'Follow on Nekoweb' button (<iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>) */
