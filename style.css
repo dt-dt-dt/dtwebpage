@@ -44,7 +44,7 @@ p {
     font-family: 'W95font', sans-serif;
     color: #fff;
     padding: 5px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h3 {
@@ -52,7 +52,7 @@ h3 {
     color: #fff;
     padding: 5px;
     margin: 10px 0px -5px 0px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .header, .section, .footer{
