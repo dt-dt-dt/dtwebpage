@@ -28,7 +28,7 @@
     opacity: 0;
 }
 
-.sitebox .sitefeature {
+.sitebox .sitefeature::after {
     opacity: 0%;
 }
 
