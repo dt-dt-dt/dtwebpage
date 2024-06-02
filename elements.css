@@ -28,8 +28,8 @@
     opacity: 0;
 }
 
-.sitefeature {
-    opacity: 0;
+.sitebox .sitefeature {
+    opacity: 0%;
 }
 
 /* Style for your 'Follow on Nekoweb' button (<iframe src="https://nekoweb.org/frame/follow" frameborder="0" width="170" height="28"></iframe>) */
