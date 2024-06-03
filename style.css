@@ -246,7 +246,8 @@ figure img {
 
 figcaption {
     font-family: 'W95font', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
+    text-align: center;
     color: #fff;
     margin-top: 10px;
 }
@@ -275,4 +276,15 @@ ul {
 
 .header-link {
     color: #fff;
+}
+
+.shelf {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.shelf-item {
+    flex-basis: 195px;
+    margin-right: -20px;
 }
