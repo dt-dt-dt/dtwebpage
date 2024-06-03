@@ -44,7 +44,11 @@ p {
     font-family: 'W95font', sans-serif;
     color: #fff;
     padding: 5px;
-    font-size: 16px;
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
 }
 
 h3 {
@@ -52,7 +56,7 @@ h3 {
     color: #fff;
     padding: 5px;
     margin: 10px 0px -5px 0px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .header, .section, .footer{
@@ -256,7 +260,7 @@ ul {
 
 .row {
     display: flex;
-    gap: 7.5px
+    gap: 5px
 }
 
 .column {
