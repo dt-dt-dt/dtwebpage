@@ -16,32 +16,32 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
-/* w95 font courtesy of https://arnesava.github.io/w95font/ */
+/* w95 font courtesy of https://arnesava.github.io/Inter/ */
 
 @font-face {
-    font-family: 'W95font';
-    src: url('w95font/webfont/w95font.woff2') format('woff2'),
-         url('w95font/webfont/w95font.woff') format('woff');
+    font-family: 'Inter';
+    src: url('Inter/webfont/Inter.woff2') format('woff2'),
+         url('Inter/webfont/Inter.woff') format('woff');
     font-weight: normal;
 }
 
 @font-face {
-    font-family: 'W95font';
-    src: url('w95font/webfont/w95font-bold.woff2') format('woff2'),
-         url('w95font/webfont/w95font-bold.woff') format('woff');
+    font-family: 'Inter';
+    src: url('Inter/webfont/Inter-bold.woff2') format('woff2'),
+         url('Inter/webfont/Inter-bold.woff') format('woff');
     font-weight: bold;
 
 }
 
 h2, p {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     padding: 5px;
     font-size: 24px;
 }
 
 p {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     padding: 5px;
     font-size: 16px;
@@ -52,7 +52,7 @@ li {
 }
 
 h3 {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     padding: 5px;
     margin: 10px 0px -5px 0px;
@@ -60,7 +60,7 @@ h3 {
 }
 
 .header, .section, .footer{
-    border: 0.5px solid #bdbdbd;
+    /* border: 0.5px solid #bdbdbd; */
     width: 800px;
 }
 
@@ -92,11 +92,13 @@ h3 {
 
 .header h1, .footer p {
     font-size: 20px;
-    font-family: 'W95font', sans-serif;
-    text-align: center;
+    font-family: 'Inter', sans-serif;
+    text-align: left;
     margin: 0;
     color: #fff;
     padding: 5px;
+/* temp */
+    display: none;
 }
 
 a {
@@ -104,7 +106,7 @@ a {
 }
 
 ul.collinks {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     list-style-type: none;
     margin: 0;
@@ -120,7 +122,7 @@ ul.collinks {
 
 .smallcol {
     width: 100px;
-    border-right: #bdbdbd solid 0.5px;
+    /* border-right: #bdbdbd solid 0.5px; */
 }
 
 .bigcol {
@@ -168,7 +170,7 @@ ul.collinks {
 }
 
 .nav a {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     text-decoration: none;
     color: #fff;
     font-size: 20px;
@@ -220,7 +222,7 @@ ul.collinks {
     border: #fff solid 0.25px;
     background-color: #232323;
     color: #fff;
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     margin-bottom: 7.5px;
 }
 
@@ -245,7 +247,7 @@ figure img {
 }
 
 figcaption {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     text-align: center;
     color: #fff;
@@ -253,7 +255,7 @@ figcaption {
 }
 
 ul {
-    font-family: 'W95font', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     margin: 5px 0px 0px 0px;
     list-style-type: square;
